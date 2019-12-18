@@ -1,10 +1,7 @@
 DATA FILES
 ===================
-There are multiple files here.
 
-
-The relationships between these files has not been finalized
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is still a WIP
 
 Current Situation:
 ______
