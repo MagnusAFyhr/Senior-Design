@@ -7,9 +7,13 @@ Current Situation:
 ______
 
 - You will need to "pip3 install pandas" before running any of the code
-- There are currently 3 major files. Only 1 has been fully completed
+- The ta_lib_init.py file has been completed
+	- This file has no comments
+	- For documentation see:
+		- "chickenLittle.py"
+		- The OneNote has each function documented and explained
 
-----------
+
 File Guide:
 ----------
 
